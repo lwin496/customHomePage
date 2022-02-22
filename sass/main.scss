@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 @import url('https://fonts.googleapis.com/css2?family=Arvo&display=swap'); // font-family: 'Arvo', serif;
 @import url('https://fonts.googleapis.com/css2?family=Arvo&family=Rubik+Mono+One&display=swap');
 //font-family: 'Rubik Mono One', sans-serif;
@@ -78,4 +79,20 @@ body {
       z-index: -1;
       left: 20vw;
 
+=======
+@import url('https://fonts.googleapis.com/css2?family=Overpass:wght@500&display=swap');
+
+$mainfont { 
+      font-family: 'Overpass', sans-serif;
+}
+
+
+body { 
+      background-color: black;
+}
+#mainHeader { 
+      text-align: center;
+      margin-top: 1rem;
+      color: white;
+>>>>>>> 421f78231e8145253cd0d24b71ee405259d54604
 }

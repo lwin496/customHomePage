@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 @import url("https://fonts.googleapis.com/css2?family=Arvo&display=swap");
 @import url("https://fonts.googleapis.com/css2?family=Arvo&family=Rubik+Mono+One&display=swap");
 @import url("https://fonts.googleapis.com/css2?family=Krona+One&display=swap");
@@ -71,4 +72,10 @@ body .buttonContainer button {
   z-index: -1;
   left: 20vw;
 }
+=======
+body {
+  background-color: red;
+}
+
+>>>>>>> 421f78231e8145253cd0d24b71ee405259d54604
 /*# sourceMappingURL=main.css.map */
