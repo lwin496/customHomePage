@@ -10,7 +10,7 @@ $(document).ready(function () {
         $(this).addClass('test');
   })
   $(".test").on("click",function() { 
-      $(this).attr("src","images/arrowup.png")
+      $(this).attr("src","Images/arrowup.png")
   })
   function kroniiLeft() {   
     $("#kronii").animate({left:"-=1000"} ,2000 ,"swing",kroniiRight),
