@@ -6,7 +6,7 @@ $(document).ready(function () {
   $("#switchArrow").on("click",function() { 
         $(".container1").slideToggle(1000);
         $(".container2").toggle()
-        $(this).attr("src","images/arrowup.png")
+        $(this).attr("src","Images/arrowup.png")
         $(this).addClass('test');
   })
   $(".test").on("click",function() { 
