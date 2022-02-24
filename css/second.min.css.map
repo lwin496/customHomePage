@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,AAAA,IAAI,AAAC,CACC,gBAAgB,CAAE,OAAO,CACzB,gBAAgB,CAAE,q5CAAq5C,CAK56C,AAPD,AAGM,IAHF,CAGE,MAAM,AAAC,CACD,MAAM,CAAE,IAAI,CACZ,IAAI,CAAE,IAAI,CACf",
+    "sources": [
+        "../sass/second.scss"
+    ],
+    "names": [],
+    "file": "second.min.css"
+}
