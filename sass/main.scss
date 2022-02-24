@@ -21,8 +21,15 @@ body {
       }
       #rem { 
             position: fixed;
+            cursor: pointer;
+      }
+      #ram { 
+            cursor: pointer;
+            left: 85vw;
+            position: fixed;
       }
       #kronii { 
+            top: 15vh;
             height: 200px;
             width: 200px;
             position: absolute;
@@ -113,11 +120,18 @@ body {
             }
       }
       #switchArrow { 
+            cursor: pointer;
             height: 50px;
             width: 50px;
             position: fixed;
             z-index: 0;
             top: 47vh;
             left: 77vw;
+      }
+      #clickme{ 
+            color: white;
+            position: fixed;
+            left: 90vw;
+            top: 90vh;
       }
 }

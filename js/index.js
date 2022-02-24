@@ -28,5 +28,18 @@ $(document).ready(function () {
   }
   kroniiLeft()
   
+  $("#rem").on("click",function(){ 
+    $("#ram").slideToggle()
+    console.log('you chose wisely')
+    $("#rem").append("<p>You chose wisely</p>")
+  })
+  $("#ram").on("click",function(){ 
+    $("#rem").slideToggle()
+    console.log('you chose wrong')
+    
+  })
 
+  $("#kronii").on("click",function(){ 
+   kroniiRight()
+  })
 });

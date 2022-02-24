@@ -19,9 +19,17 @@ body iframe {
 
 body #rem {
   position: fixed;
+  cursor: pointer;
+}
+
+body #ram {
+  cursor: pointer;
+  left: 85vw;
+  position: fixed;
 }
 
 body #kronii {
+  top: 15vh;
   height: 200px;
   width: 200px;
   position: absolute;
@@ -128,11 +136,19 @@ body .container2 p {
 }
 
 body #switchArrow {
+  cursor: pointer;
   height: 50px;
   width: 50px;
   position: fixed;
   z-index: 0;
   top: 47vh;
   left: 77vw;
+}
+
+body #clickme {
+  color: white;
+  position: fixed;
+  left: 90vw;
+  top: 90vh;
 }
 /*# sourceMappingURL=main.css.map */
